@@ -164,7 +164,7 @@ class dataUtils:
         return loader
         
     def get_cifar_superclass_dataloader(superclass_index, batch_size=8, train=True):
-        filename = f'/home/aneeshmu/WeightedParticles/Gradient-based-Particle-Filter/data/cifar_superclass_{superclass_index}_{"train" if train else "test"}.pt'
+        filename = f'./data/cifar_superclass_{superclass_index}_{"train" if train else "test"}.pt'
         #filename = f'./data/cifar_superclass_{superclass_index}_{"train" if train else "test"}.pt'
         print(superclass_index)
         if os.path.exists(filename):
