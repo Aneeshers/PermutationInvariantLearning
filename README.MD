@@ -1,4 +1,4 @@
-# Towards High-dimensional Particle Filters ICML' 24 Code Submission
+# Towards High-dimensional Particle Filters
 
 This repository is the official implementation of the Gradient-based Particle Filter in ***Towards High-dimensional Particle Filters***.
 
