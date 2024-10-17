@@ -66,6 +66,6 @@ python main.py "pure_domain_mnist" 100 0.01 "True"
 >📋  This will run the domain mnist weighted logits particle filter on 100 particles with a 0.01 lr on a Split MNIST Permutation.
 
 
-## Pre-trained Models
+## RL experiments
 
-Coming soon ➡️
+Coming soon ➡️ For now, you can adapt the particle filter to the setup found [ Here](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file)
