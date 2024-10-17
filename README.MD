@@ -68,4 +68,4 @@ python main.py "pure_domain_mnist" 100 0.01 "True"
 
 ## RL experiments
 
-Coming soon ➡️ For now, you can adapt the particle filter to the setup found [ Here](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file)
+Coming soon ➡️ For now, you can adapt the particle filter to the setup found [here](https://github.com/ComputationalRobotics/TRAC?tab=readme-ov-file).
